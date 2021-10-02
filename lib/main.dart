@@ -14,7 +14,7 @@ class Comp1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return (Scaffold(
         appBar: AppBar(
-          title: const Text('ThisIsPhillip'),
+          title: const Text('Renes Todo-App'),
         ),
         body: Inputwidget()));
   }
